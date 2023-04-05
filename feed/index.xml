@@ -12,13 +12,13 @@
 	<atom:link href="http://localhost/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
-	<lastBuildDate>Thu, 02 Mar 2023 12:38:36 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 05 Apr 2023 15:00:29 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
 	<url>/wp-content/uploads/2022/11/cropped-Group-logo-e1667399262540-1-32x32.png</url>
