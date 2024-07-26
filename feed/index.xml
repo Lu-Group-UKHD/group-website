@@ -9,16 +9,16 @@
 
 <channel>
 	<title>Welcome to Lu Group</title>
-	<atom:link href="http://localhost/wordpress/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
-	<lastBuildDate>Fri, 23 Feb 2024 10:01:15 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 26 Jul 2024 12:22:30 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2022/11/cropped-Group-logo-e1667399262540-1-32x32.png</url>
